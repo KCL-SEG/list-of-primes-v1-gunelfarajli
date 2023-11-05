@@ -2,5 +2,6 @@
 """ENTER YOUR SOLUTION HERE!"""
 
 def primes(number_of_primes):
-    list = []
-    return list
+    list = [1]
+    print(list)
+primes(2)
